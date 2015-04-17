@@ -10,15 +10,15 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #2f7d90;
-  background-color: #2f7d90; }
+  background: #34ADB4;
+  background-color: #34ADB4; }
 
 .reveal {
   font-family: "Josefin Sans", sans-serif;
   font-size: 60px;
   font-weight: 400;
   letter-spacing: -0.02em;
-  color: #eeeeee; }
+  color: #000000; }
 
 ::selection {
   color: white;
@@ -67,6 +67,7 @@ body {
  *********************************************/
 .reveal section img {
   margin: 15px 0px;
+  height: 80vh;
   -webkit-transition: all .2s linear;
   -moz-transition: all .2s linear;
   -ms-transition: all .2s linear;
